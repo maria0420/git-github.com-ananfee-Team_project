@@ -4,7 +4,7 @@ import Body from "./body/body";
 
 function App() {
   return (
-    <>
+     <>
     <div style={{display:'flex', justifyContent: 'center'}}>
     <Body/>
     </div>
